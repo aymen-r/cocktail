@@ -1,0 +1,24 @@
+.imgDrink img {
+  width: 400px;
+}
+.top {
+  display: flex;
+  padding-bottom: 100px;
+}
+.right {
+  width: 60%;
+}
+.left {
+  width: 40%;
+}
+.desc {
+  padding: 50px;
+}
+
+.desc h4 {
+  color: rgb(232, 255, 101);
+  /* text-decoration: underline; */
+}
+.text {
+  padding: 0 250px;
+}

@@ -1,0 +1,18 @@
+.oneDrink {
+  padding: 30px;
+}
+.oneDrink img {
+  width: 240px;
+}
+.oneDrink h5 {
+  text-decoration: wavy;
+}
+.drinkCard {
+  /* width: 90%; */
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+/* .page {
+  
+} */
